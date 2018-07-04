@@ -1,0 +1,212 @@
+body {
+    height: 100%;
+    width: 100%;
+    background-color: saddlebrown;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+
+.whole {
+    height: 1087px;
+    width: 1079px;
+
+
+
+}
+
+h1 {
+    font-family: fantasy;
+    font-size: 50px;
+}
+
+p {
+    font-family: serif;
+
+
+
+}
+
+.firdiv {
+    float: center;
+    padding: 10px;
+    height: 10px;
+    margin-left: 160px;
+}
+
+.firdiv h1 {
+    padding: 5px;
+    color: #fff;
+}
+
+.firdiv p {
+    width: 300px;
+    margin-left: 10px;
+    color: brown;
+
+}
+
+
+
+
+
+.firmenu {
+    float: center;
+    width: 780px;
+    margin-left: 160px;
+    margin-top: 80px;
+
+}
+
+ul.abc {
+
+    list-style-type: none;
+    float: center;
+    overflow: hidden;
+    background-color: brown;
+    padding: 5px;
+    margin-bottom: 0px;
+
+}
+
+.abc li {
+    float: left;
+    padding: 1px 7px 1px 5px;
+    border-radius: groove;
+    border-color: whitesmoke;
+    border-right: 2px solid green;
+}
+
+
+
+
+.secdiv {
+    margin-left: 160px;
+    margin-right: 140px;
+    background-color: saddlebrown;
+    height: 165px;
+    padding-top: 3px;
+}
+
+
+
+
+.content1 {
+    margin: 0px;
+    padding: 0px;
+    width: 150px;
+    float: left;
+}
+
+.content1 img {
+    height: 165px;
+    width: 150px;
+    background-color: aliceblue;
+}
+
+
+.content2 {
+    width: 619px;
+    border-collapse: collapse;
+    background-color: lightgreen;
+    border color: royalblue;
+    padding: 5px;
+    float: right;
+    height: 155px;
+}
+
+.content2 h1 {
+    margin-top: 0px;
+    margin-left: 15px;
+    margin-bottom: 0px;
+}
+
+.content2 p {
+    margin-top: 2px;
+    margin-bottom: 0px;
+    margin-left: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.thirdiv {
+    margin-top: 5px;
+    height: 694px;
+    width: 630px
+}
+
+
+.semenu {
+    float: left;
+    width: 150px;
+    margin-left: 160px;
+    background-color: lightblue;
+
+}
+
+
+
+ul.xyz {
+    list-style-type: none;
+    padding: 7px;
+    background-color: lightblue;
+    height: 667px;
+    overflow: hidden;
+}
+
+.xyz li {
+    float: center;
+    padding: 10px;
+    border-bottom: 2px solid green;
+    text-align: center;
+    border-bottom-style: groove;
+    border-bottom-color: red;
+}
+
+
+
+.secontent {
+    margin-left: 310px;
+    background-color: whitesmoke;
+    width: 610px;
+    height: 693px;
+    margin-top: 0px;
+    padding: 10px;
+}
+
+.secontent h1 {
+    padding: 5px;
+    margin-left: 25px;
+    border-bottom-style: dotted;
+}
+
+.secontent p {
+    padding: 2px;
+    margin-left: 25px;
+}
+
+
+
+
+
+
+.foter {
+    background-color: blueviolet;
+    margin-left: 160px;
+    width: 780px;
+}
+
+.foter h4,
+p {
+    text-align: Center;
+}
